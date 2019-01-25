@@ -2,10 +2,11 @@ body {
     background-image: url("assets/images/just-waves.png");
 }
 
-.text {
-    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+#name {
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
 
-p {
+.text {
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
