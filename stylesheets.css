@@ -2,13 +2,29 @@ body {
     background-image: url("assets/images/just-waves.png");
 }
 
+#section1 {
+    background-color:white;
+}
+
+header {
+    background-color:white;
+    padding:50px
+}
+
 #name {
+    float:left;
+    border-style:solid;
+    border-width:20px;
+    border-color:#4aaaa5;
+    background-color:#4aaaa5;
     color:white;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#4aaaa5;
+    float:left;
 }
 
 .text {
