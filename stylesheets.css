@@ -67,6 +67,11 @@ li {
 }
 
 .img {
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+.catimg {
     float: left;
     margin-left: 10px;
     margin-right: 30px;
