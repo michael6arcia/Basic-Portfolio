@@ -1,7 +1,7 @@
 body {
     width:100%;
     margin: auto;
-    background-image: url(assets/images/just-waves.png);
+    background-image: url(assets/images/crossline-lines.png);
 }
 
 .container {
@@ -15,33 +15,63 @@ body {
     height:100px;
     top: 0;
     position: fixed;
+    border-bottom-style: solid;
+    border-color:grey;
+    border-width: 2px;
 }
 
 .name {
+    padding-top: 10px;
     padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 11px;
+    text-align: center;
     float: left;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background:skyblue;
 }
 
 a {
     text-decoration: none;
 }
 
-li {
-    padding-right: 10px;
-    list-style: none;
-    float: left;
-    margin-left: 10px;
-}
-
 .nav {
     float: right;
 }
 
-.AboutMe {
-    padding-left: 10px
+.article {
+    margin-top: 120px;
+    padding-left: 10px;
+    background-color: white;
+    padding:20px;
+    width: 920px;
+    padding-bottom: 20px;
+    color: grey;
 }
 
-.article {
-    padding-left: 10px;
+h2 {
+    margin-left: 10px;
+    margin-top: 5px;
+    color: skyblue;
+}
+li {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    padding: 10px;
+    color: grey;
+}
+
+.img {
+    float: left;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+h1 {
+    margin-left: 10px;
 }
