@@ -1,7 +1,7 @@
 body {
     width:100%;
     margin: auto;
-    background-image: url(assets/images/crossline-lines.png);
+    background-image: url(assets/images/gravel.png);
 }
 
 .container {
@@ -107,13 +107,18 @@ h4 {
 }
 
 .nameform {
-
+    width: 97%;
+    margin-left: 10px;
 }
 
 .emailform {
-
+    width: 97%;
+    margin-left: 10px;
 }
 
 .messageform {
-
+    width: 97%;
+    margin-left: 10px;
+    height: 150px;
+    resize: none;
 }
