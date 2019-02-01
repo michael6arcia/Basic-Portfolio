@@ -74,6 +74,10 @@ li {
     margin-right: 30px;
 }
 
+.grid {
+    display: grid;
+}
+
 .catimg {
     float: left;
     margin-left: 10px;
