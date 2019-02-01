@@ -61,7 +61,7 @@ h2 {
 li {
     padding-right: 10px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 11px;
     list-style: none;
     float: left;
     margin-left: 10px;
@@ -109,11 +109,15 @@ h4 {
 .nameform {
     width: 97%;
     margin-left: 10px;
+    border-color: grey;
+    border-width: 1px;
 }
 
 .emailform {
     width: 97%;
     margin-left: 10px;
+    border-color: grey;
+    border-width: 1px;
 }
 
 .messageform {
@@ -121,4 +125,10 @@ h4 {
     margin-left: 10px;
     height: 150px;
     resize: none;
+    border-color: grey;
+    border-width: 1px;
+}
+
+.submitbtn {
+    margin-left: 10px;
 }
